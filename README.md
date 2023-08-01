@@ -1,3 +1,3 @@
-## oci-services
+# oci-services
 
-# repository of python functions allowing to manage OCI resources progrmmaticaly.
+Repository of python functions allowing to manage OCI resources progrmmaticaly.
